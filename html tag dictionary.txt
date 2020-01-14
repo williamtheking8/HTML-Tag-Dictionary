@@ -86,7 +86,7 @@ title: tells the browser what the website is called on the top tab, put in insid
 	attributes:none
 	
 	
-Exx <head>
+Ex. <head>
 
 <title> Html Dictionary </title>
 
