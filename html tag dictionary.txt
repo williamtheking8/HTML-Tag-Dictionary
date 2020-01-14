@@ -81,6 +81,16 @@ Ex.
 <li> number 1? </li>
 </ul>
 
+title: tells the browser what the website is called on the top tab, put in inside <head> </head>
+
+	attributes:none
+	
+	
+Exx <head>
+
+<title> Html Dictionary </title>
+
+</head>
 
 
 
