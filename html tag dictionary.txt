@@ -1,16 +1,41 @@
+!DOCTYPE: selects what version of html you are using
+
+	attributes: <!DOCTYPE html>, current version of html  
+	
+Ex. <!DOCTYPE html>
+
 a: makes links to other websites, when the words in <a> are clicked it goes to webiste and makes the words blue 
 
 	attributes: href=""  tells the computer where to make the user go to when its clicked
 	
 	ex. <a href="https://www.youtube.com/"> youtube </a>
 
+body: contains the content of the webpage and seperates it from the head
 
+	attributes: none
+	
+	Ex.  <body>    words   </body>
+	
 h(l-6): Header tag, makes the letters a certain size(depending on the number)
 and puts it on a seperate line.
 		
 		Attributes: none
 		
 		Ex. <h1> BIG TEXT </h1>   or <h4> Not as big text </h4>
+		
+head: contains things for your browser to think about
+
+	attributes: none
+	
+Ex  <head> think browser... </head>
+
+html: tells browser where the html code starts and ends
+
+	attributes:none
+	
+ex.  <html>
+
+</html>
 		
 
 img: is the tag to show an image on the website
@@ -55,3 +80,33 @@ Ex.
 <li> number 3??</li>
 <li> number 1? </li>
 </ul>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
